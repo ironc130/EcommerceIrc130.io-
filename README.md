@@ -8,8 +8,10 @@
     font-size:400%;
     }
     
+    div.a { text-align: center;}
 </style>
 </head>
 <body>
-  <h1 style=text-align:"center">Travelling to Guatemala</h1>
+ <div class=a>
+  <h1 style=text-align:"center";><b>Travelling to Guatemala</b></h1>
   
