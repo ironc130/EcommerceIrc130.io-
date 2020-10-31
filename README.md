@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <index.html>
 <head>
   <title>Travelling to Guatemala for the youth</title>
