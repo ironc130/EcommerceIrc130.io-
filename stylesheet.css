@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'cornerstoneregular';
-    src: url('../https://ironc130.github.io/index.html/css/cornerstone_1-webfont.woff2') format('woff2'),
-         url('../https://ironc130.github.io/index.html/css/cornerstone_1-webfont.woff'') format('woff');
+    src: url('../Index.html/cornerstone_1-webfont.woff2') format('woff2'),
+         url('../Index.html/cornerstone_1-webfont.woff'') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -13,8 +13,8 @@
 
 @font-face {
     font-family: 'apex_mk3medium';
-    src: url('../https://ironc130.github.io/index.html/css/apex_mk3-medium-webfont.woff2') format('woff2'),
-         url('../https://ironc130.github.io/index.html/css/apex_mk3-medium-webfont.woff') format('woff');
+    src: url('../Index.html/apex_mk3-medium-webfont.woff2') format('woff2'),
+         url('../Index.html/apex_mk3-medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
